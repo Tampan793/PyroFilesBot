@@ -32,7 +32,7 @@ Kirimi saya file apa pun, saya akan menyimpannya di Database saya. Juga berfungs
 
 Developer is Super Noob. Just Learning from Official Docs. Please Donate the developer for Keeping the Service Alive.
 Also remember that developer will Delete Adult Contents from Database. So better don't Store Those Kind of Things.
-[Donate Now](https://t.me/M4SK3R) ( Anything )
+[Donate Now](https://t.me/xH4X0Rx) ( Anything )
 """
 	HOME_TEXT = """
 Hi, [{}](tg://user?id={})\n\nThis is Permanent **File Restored Bot**.
