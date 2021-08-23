@@ -281,7 +281,7 @@ async def button(bot: Client, cmd: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("Source Codes 404 Not Founding")
+                        InlineKeyboardButton("Source Codes 404 Not Founding", url="https://github.com")
                     ],
                     [
                         InlineKeyboardButton("Go Home", callback_data="gotohome"),
@@ -299,7 +299,7 @@ async def button(bot: Client, cmd: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("Source Codes 404 Not Founding")
+                        InlineKeyboardButton("Source Codes 404 Not Founding", url="https://github.com")
                     ],
                     [
                         InlineKeyboardButton("About Bot", callback_data="aboutbot"),
