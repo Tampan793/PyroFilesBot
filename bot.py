@@ -47,7 +47,7 @@ async def start(bot: Client, cmd: Message):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("Support Me", url="https://t.me/TiktokViral18Plus_Pemersatu"),
+                        InlineKeyboardButton("Support Me", url="https://t.me/TiktokViral18_Pemersatu"),
                         InlineKeyboardButton("Bots Channel", url="https://t.me/xH4X0Rx")
                     ],
                     [
@@ -317,7 +317,7 @@ async def button(bot: Client, cmd: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("Support Me", url="https://t.me/TiktokViral18Plus_Pemersatu"),
+                        InlineKeyboardButton("Support Me", url="https://t.me/TiktokViral18_Pemersatu"),
                         InlineKeyboardButton("Bots Channel", url="https://t.me/xH4X0Rx")
                     ],
                     [
@@ -371,7 +371,7 @@ async def button(bot: Client, cmd: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("Support Me", url="https://t.me/TiktokViral18Plus_Pemersatu"),
+                        InlineKeyboardButton("Support Me", url="https://t.me/TiktokViral18_Pemersatu"),
                         InlineKeyboardButton("Bots Channel", url="https://t.me/xH4X0Rx")
                     ],
                     [
