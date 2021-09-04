@@ -54,7 +54,7 @@ async def SaveBatchMediaInChannel(bot: Client, editable: Message, message_ids: l
             reply_markup=InlineKeyboardMarkup(
                 [[InlineKeyboardButton("Open Link", url=share_link)],
                  [InlineKeyboardButton("Bots Channel", url="https://t.me/xH4X0Rx"),
-                  InlineKeyboardButton("Support Me", url="https://t.me/TiktokViral18Plus_Pemersatu")]]
+                  InlineKeyboardButton("Support Me", url="https://t.me/TiktokViral18_Pemersatu")]]
             ),
             disable_web_page_preview=True
         )
@@ -94,7 +94,7 @@ async def SaveMediaInChannel(bot: Client, editable: Message, message: Message):
             reply_markup=InlineKeyboardMarkup(
                 [[InlineKeyboardButton("Open Link", url=share_link)],
                  [InlineKeyboardButton("Bots Channel", url="https://t.me/xH4X0Rx"),
-                  InlineKeyboardButton("Support Me", url="https://t.me/TiktokViral18Plus_Pemersatu")]]
+                  InlineKeyboardButton("Support Me", url="https://t.me/TiktokViral18_Pemersatu")]]
             ),
             disable_web_page_preview=True
         )
