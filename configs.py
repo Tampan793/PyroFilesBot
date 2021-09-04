@@ -25,17 +25,18 @@ Kirimi saya file apa pun, saya akan menyimpannya di Database saya. Juga berfungs
 🤖 **My Name:** [Bot File](https://t.me/{BOT_USERNAME})
 🕷️ **Developer:** @xH4X0Rx
 👥 **Support Group:** [Coming Soon]
-📢 **Updates Channel:** [F for Respect](https://t.me/TiktokViral18Plus_Pemersatu)
+📢 **Updates Channel:** [F for Respect](https://t.me/TiktokViral18_Pemersatu)
 """
 	ABOUT_DEV_TEXT = f"""
 🧑🏻‍💻 **Developer:** @xH4X0Rx
 
-Developer is Super Noob. Just Learning from Official Docs. Please Donate the developer for Keeping the Service Alive.
-Also remember that developer will Delete Adult Contents from Database. So better don't Store Those Kind of Things.
+Developer is Super Noob. Just Learning from Official Docs. 
+Also remember that developer will Delete Childporn Contents from Database. 
+So better don't Store Those Kind of Things.
 [Donate Now](https://t.me/xH4X0Rx) ( Anything )
 """
 	HOME_TEXT = """
 Hi, [{}](tg://user?id={})\n\nThis is Permanent **File Restored Bot**.
 
-Send me any file I will give you a permanent Sharable Link. I Support Channel Also! Check **About Bot** Button.
+Kirimi saya file apa pun, saya akan menyimpannya di Database saya. Juga berfungsi untuk saluran! Check **About Bot** Button.
 """
